@@ -1,5 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1A73E8&height=200&section=header&text=Krish%20Patel&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20|%20Quant%20Researcher%20|%20ML%20Engineer&descAlignY=55&descSize=20)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Quant+Researcher;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Insights;TDA+%7C+Financial+Modeling+%7C+ETL" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi there, I'm Krish Patel! 👋
 
 I am a **Software Engineering Undergraduate** transitioning into **Quantitative Analytics**. I specialize in building rigorous data pipelines and applying advanced mathematical models (like Topological Data Analysis) to financial and biometric datasets.
@@ -65,6 +71,20 @@ Applied **K-Means clustering** to segment 102 stocks into 4 risk archetypes, red
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpatel528&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kpatel528&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kpatel528&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
 ---
